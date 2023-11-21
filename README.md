@@ -13,5 +13,7 @@ For each worker A who wants to work with a worker B where the two are not connec
 This should be the result but it should be created dynamically, not through any sort of hard-coding. 
 
 Hiren | FutureTek | Ensieh | Microsoft | Gabriel | Microsoft
+
 Austin | TD | Jordan | CIBC | Hiren | FutureTek
+
 Austin | TD | Jordan | CIBC | Kyle | CIBC
