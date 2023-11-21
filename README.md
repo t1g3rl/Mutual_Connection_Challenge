@@ -1,5 +1,4 @@
 # Mutual_Connection_Challenge
-A challenge to find mutual connections in a database.
 
 The database we will use for this assignment concerns workers in the data space who recently attended an AI conference.
 
